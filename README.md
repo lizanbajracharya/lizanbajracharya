@@ -73,4 +73,4 @@
 
 <!-- Footer -->
 <p align="center">Made with ❤️ by <b>Lizan Bajracharya</b></p>
-](https://lizanbajracharya.portfolial.com/)
+(https://lizanbajracharya.portfolial.com/)
