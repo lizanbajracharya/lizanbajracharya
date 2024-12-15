@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning GoLang, TypeScript, Python and so on
 - 💬 Ask me about JavaScript, React, Node, Next JS
 - 👨‍💻 All of my projects are available here
-- 📫 How to reach me lizan.bajra97@gmail.com or www.linkedin.com/in/lizan-bajra
+- 📫 How to reach me lizan.bajra97@gmail.com or www.linkedin.com/in/lizan-bajra or https://lizanbajracharya.portfolial.com/
 - ⚡ Fun fact: I love socializing and cracking jokes to make people more engaging
 
 <!-- Social Links -->
@@ -73,4 +73,3 @@
 
 <!-- Footer -->
 <p align="center">Made with ❤️ by <b>Lizan Bajracharya</b></p>
-(https://lizanbajracharya.portfolial.com/)
