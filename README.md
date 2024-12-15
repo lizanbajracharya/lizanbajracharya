@@ -1,4 +1,4 @@
-[<!-- Profile Header -->
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Lizan Bajracharya</h1>
 <h3 align="center">A passionate Full Stack Developer from Nepal currently living in London, United Kingdom</h3>
 
